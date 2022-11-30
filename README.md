@@ -30,11 +30,11 @@ Open the file ***/MTLS_point_cloud_generation/test_data/_dades_preparation_cloud
 
 Open matlab file :***/MTLS_point_cloud_generation/cloud_formation_velodyne.m*** and set the following parameter:
 ```
-folder_sup = $îdata_directoryî$;    %folder where file "dades_preparation_cloud_formation_velodyne.xlsx" is placed
+folder_sup = $‚Äùdata_directory‚Äù$;    %folder where file "dades_preparation_cloud_formation_velodyne.xlsx" is placed
 ```
 example:
 ```
-folder_sup=['E:\DetecciÛ Fruits 2017\velodyne_vent\code_generacio_nuvols\test_data']; 
+folder_sup=['E:\Detecci√≥ Fruits 2017\velodyne_vent\code_generacio_nuvols\test_data']; 
 ```
 
 Execute the file ***/MTLS_point_cloud_generation/cloud_formation_velodyne.m***.
@@ -76,3 +76,5 @@ If you find this implementation or the analysis conducted in our report helpful,
 	publisher={Elsevier}
     }
 
+#### Acknowledgements
+This work was partly funded by the Spanish Ministry of Science, Innovation and Universities (grant RTI2018-094222-B-I00[[PAgFRUIT project]]( https://www.pagfruit.udl.cat/en/) by MCIN/AEI/10.13039/501100011033 and by ‚ÄúERDF, a way of making Europe‚Äù, by the European Union).
