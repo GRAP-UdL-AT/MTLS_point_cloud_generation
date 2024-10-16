@@ -5,7 +5,7 @@ This project is a Matlab implementation to generate 3D point clouds from data ac
 
 This implementation was used to generate the point clouds provided in LFuji-air dataset, which contains 3D LiDAR data of 11Fuji apple trees with the corresponding fruit position annotations. Find more information in:
 
-* [[2] Gené-Mola J, Gregorio E, Auat F, Guevara J, Llorens J, Sanz-Cortiella R, Escolà A, Rosell-Polo JR. 2020. LFuji-air dataset: Annotated 3D LiDAR point clouds of Fuji apple trees for fruit detection scanned under different forced air flow conditions. Data in brief, 29 (2020), 105248. DOI: 10.1016/j.dib.2020.105248](https://doi.org/10.1016/j.dib.2020.105248). 
+* [Gené-Mola J, Gregorio E, Auat F, Guevara J, Llorens J, Sanz-Cortiella R, Escolà A, Rosell-Polo JR. 2020. LFuji-air dataset: Annotated 3D LiDAR point clouds of Fuji apple trees for fruit detection scanned under different forced air flow conditions. Data in brief, 29 (2020), 105248. DOI: 10.1016/j.dib.2020.105248](https://doi.org/10.1016/j.dib.2020.105248). 
 
 
 
